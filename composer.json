@@ -1,7 +1,7 @@
 {
     "require": {
         "symfony/console": "^5.0",
-        "willdurand/geocoder": "^3.2"
+        "willdurand/geocoder": "^4.2"
     },
     "autoload" : {
         "psr-4" : {
